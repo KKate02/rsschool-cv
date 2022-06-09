@@ -22,3 +22,11 @@ public class CustomMath {
     }
 }
 ```
+## Education
+\- **University**: Yanka Kupala State University of Grodno, Information systems and technologies (in economics) major.\
+\- **Courses**:\
+
+\- Blender Start
+## Languages
+* **Russian** - native speaker.
+* **English** - A1.
