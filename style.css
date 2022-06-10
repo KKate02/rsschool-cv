@@ -1,0 +1,32 @@
+p {
+    color:black;
+}
+
+.main {
+color:goldenrod;
+}
+
+.list{
+   background-color: darkgray ;
+   border: 1px solid black;
+    padding: 5px;
+}
+
+.listIt{
+   color:darkred ;
+}
+
+.child{
+    color: rgb(139, 36, 207);
+    font-style: italic;
+    font-weight: bold;
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+}
+
+.bld{
+    font-weight: bold;
+}
