@@ -23,10 +23,24 @@ public class CustomMath {
     }
 }
 ```
+
+
+--------------
+## Code Example
+function multiply(a, b){
+  console.log(a * b);
+  return a * b;
+}
+
+
+--------------
+
+
 ## Education
  **University**: Yanka Kupala State University of Grodno, Information systems and technologies (in economics) major.
 
  **Courses**:
+   * Code-Basics HTML
    * Blender Start
 ## Languages
 * **Russian** - native speaker.
