@@ -1,1 +1,1 @@
-https://KKate02.github.io/rsschool-cv/cv
+https://KKate02.github.io/rsschool-cv/
