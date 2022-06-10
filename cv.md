@@ -9,11 +9,11 @@
 
 I am very sociable and active, work well in a team, easily resolve conflicts. I decided to try my hand at Frontend development because it seems very interesting and simple.
 ## Skills
-- C# (Basic)
-- JavaScript (Low-Basic)
-- Blender (Bsic)
-- Adobe Photoshop
-- Git (Low-Basic)
+   - C# (Basic)
+   - JavaScript (Low-Basic)
+   - Blender (Bsic)
+   - Adobe Photoshop
+   - Git (Low-Basic)
 ## Code
 ```
 public class CustomMath {
@@ -25,9 +25,9 @@ public class CustomMath {
 ```
 ## Education
  **University**: Yanka Kupala State University of Grodno, Information systems and technologies (in economics) major.
- **Courses**:
 
-\- Blender Start
+ **Courses**:
+   * Blender Start
 ## Languages
 * **Russian** - native speaker.
 * **English** - A1.
