@@ -1,19 +1,25 @@
 p {
-    color:black;
+    color: black;
 }
 
 .main {
-color:goldenrod;
+color: goldenrod;
 }
 
 .list{
-   background-color: darkgray ;
+   background-color: darkgray;
    border: 1px solid black;
     padding: 5px;
 }
 
+ul.menu{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+
 .listIt{
-   color:darkred ;
+   color: darkred;
 }
 
 .child{
